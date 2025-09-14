@@ -56,7 +56,7 @@ export default function PlanMyTripPage() {
     <Navbar/>
     <div
       className="min-h-screen bg-cover bg-center p-6"
-      style={{ backgroundImage: "url('/goa-bg.jpg')" }}
+      style={{ backgroundImage: "url('/goa-unsplash.jpg')" }}
     >
       <div className="max-w-2xl mx-auto bg-white/80 backdrop-blur-md rounded-xl shadow-lg p-6">
         <h1 className="text-3xl font-bold text-orange-600 mb-6 text-center">
